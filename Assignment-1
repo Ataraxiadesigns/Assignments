@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <title>Switzerland</title>
+</head>
+<body>
+    <h1>Switzerland</h1>
+
+   <div class="row">
+    <div id="one" class="lar1 mid1">
+        <h2>Explore</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam architecto dignissimos labore sint necessitatibus cum magni provident voluptate fugit, sit impedit, laborum repudiandae quidem aliquid debitis nisi consectetur, minima assumenda quos porro fuga! Saepe modi delectus cum, minima dolorem sequi.</p>
+    </div>
+
+    <div id="two" class="lar2 mid2">
+        <h2>Culture</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam architecto dignissimos labore sint necessitatibus cum magni provident voluptate fugit, sit impedit, laborum repudiandae quidem aliquid debitis nisi consectetur, minima assumenda quos porro fuga! Saepe modi delectus cum, minima dolorem sequi.</p>
+    </div>
+
+    <div id="three" class="lar3 mid3">
+        <h2>Cuisine</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam architecto dignissimos labore sint necessitatibus cum magni provident voluptate fugit, sit impedit, laborum repudiandae quidem aliquid debitis nisi consectetur, minima assumenda quos porro fuga! Saepe modi delectus cum, minima dolorem sequi.</p>
+    </div>
+   </div>
+
+</body>
+</html>
