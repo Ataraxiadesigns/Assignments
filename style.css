@@ -1,0 +1,33 @@
+body{
+    font-size: 16px;
+    color: fff;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#header-nav{
+    background-color: rgb(231, 117, 174);
+    border-radius: 0;
+    border: 0;
+}
+
+section{
+    height: 500px;
+}
+
+.menu{
+    text-align: center;
+}
+
+.chk{
+    text-align: center;
+    background-color: bisque;
+    color: rgb(12, 59, 97);
+    margin: 1.8em;
+    padding: 1em;
+}
+
+h4{
+    font-weight: 500;
+    color: rgb(32, 3, 85);
+}
